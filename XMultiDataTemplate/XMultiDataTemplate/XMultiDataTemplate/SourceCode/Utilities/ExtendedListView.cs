@@ -5,6 +5,7 @@ namespace XMultiDataTemplate.SourceCode.Utilities
 {
     public class ExtendedListView : ListView
     {
+        public ExtendedListView() { }
         public ExtendedListView(ListViewCachingStrategy strategy) : base(strategy)
         {
         }
