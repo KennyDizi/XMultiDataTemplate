@@ -27,11 +27,6 @@
                            Text="{Binding Name}"
                            TextColor="Blue" />
             </DataTemplate>
-
-            <!--<utilities:TvSeriesTemplateSelector x:Key="TvSeriesTemplateSelector"
-                                                TvSeriesLargeSizeTemplate="{StaticResource TvSeriesLargeSizeTemplate}"
-                                                TvSeriesMediumSizeTemplate="{StaticResource TvSeriesMediumSizeTemplate}"
-                                                TvSeriesSmallSizeTemplate="{StaticResource TvSeriesSmallSizeTemplate}" />-->
         </ResourceDictionary>
     </Application.Resources>
 </Application>
